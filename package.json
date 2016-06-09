@@ -1,0 +1,27 @@
+{
+  "name": "node-download-collection",
+  "version": "0.0.0",
+  "description": "Download collection URL from a base URI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nosthertus/node-download-collection.git"
+  },
+  "keywords": [
+    "download",
+    "collection"
+  ],
+  "author": "Nosthertus <nosthertus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nosthertus/node-download-collection/issues"
+  },
+  "homepage": "https://github.com/Nosthertus/node-download-collection#readme",
+  "dependencies": {
+    "request": "^2.72.0",
+    "utils-pkg": "^0.9.1"
+  }
+}
